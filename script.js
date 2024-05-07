@@ -47,42 +47,5 @@ function ent(){
     let buttons = document.querySelectorAll("input[type=button]");
     buttons.disable ;
  } ;
-/* <div class="container">
-<img src="./images/forest-bg-dk.png" alt="forest bg" class="img-bg">
 
-<div class="attacks">
-    <div class="ap-text">100 AP</div>
-    <progress id="ap-meter" value="100" max="100"></progress>
-    <button class="attack-btn arcane-scepter"></button>
-    <button class="attack-btn entangle"></button>
-    <button class="attack-btn dragon-blade"></button>
-    <button class="attack-btn star-fire"></button>
-</div>
-
-<div class="enemy">
-    <div class="hp-text">100 HP</div>
-    <progress id="hp-meter" value="100" max="100"></progress>
-    <div class="freaky-fungus walk"></div> */
-//     ## Attacks
-
-// ### ![arcane scepter](./images/arcane-scepter.png) Arcane Scepter
-
-// - **AP Cost:** 12
-// - **HP Damage:** 14
-
-
-// ### ![entangle](./images/entangle-3.png) Entangle
-
-// - **AP Cost:** 23
-// - **HP Damage:** 9
-
-// ### ![dragon blade](./images/dragon-blade-3.png) Dragon Blade
-
-// - **AP Cost:** 38
-// - **HP Damage:** 47
-
-// ### ![star fire](./images/star-fire.png) Star Fire
-
-// - **AP Cost:** 33
-// - **HP Damage:** 25
 
